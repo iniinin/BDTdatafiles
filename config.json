@@ -3,11 +3,11 @@
     {
       "tensorName": "My tensor",
       "tensorShape": [
-        150,
-        4
+        10703,
+        23
       ],
-      "tensorPath": "https://github.com/iniinin/BDTdatafiles/blob/main/tensor.txt",
-      "metadataPath": "https://github.com/iniinin/BDTdatafiles/blob/main/1011data.txt"
+      "tensorPath": "https://raw.githubusercontent.com/iniinin/BDTdatafiles/main/tensor.txt",
+      "metadataPath": "https://raw.githubusercontent.com/iniinin/BDTdatafiles/blob/main/1011data.txt"
     }
   ]
 }
