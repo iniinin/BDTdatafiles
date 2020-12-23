@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "My tensor",
+      "tensorName": "traintensor",
       "tensorShape": [
         1267,
         8
